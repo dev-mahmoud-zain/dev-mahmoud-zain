@@ -151,8 +151,8 @@ Backend system for managing doctors, patients, and appointments.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-mahmoud-zain&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mahmoud-zain&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-mahmoud-zain&show_icons=true&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mahmoud-zain&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
 
