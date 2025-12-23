@@ -149,14 +149,6 @@ Backend system for managing doctors, patients, and appointments.
 
 ---
 
-## 📊 GitHub Statistics
-
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-mahmoud-zain&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mahmoud-zain&layout=compact&theme=radical)
-
-
----
-
 ## 🔗 Connect With Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/dev-mahmoud-zain/
 
