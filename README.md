@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2390EE90&size=32&center=true&vCenter=true&width=720&height=50&lines=Hello%2C+I'm+Mahmoud+Zain+%F0%9F%91%8B;Back-End+Node.js+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=40&center=true&vCenter=true&width=900&height=70&lines=Hello%2C+I'm+Mahmoud+Zain+%F0%9F%91%8B;Back-End+Node.js+Developer)
+
 
 🌍 **Location:** Egypt  
 💼 **Role:** Back-End Developer (Node.js)  
