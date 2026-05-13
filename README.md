@@ -1,165 +1,252 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=40&center=true&vCenter=true&width=900&height=70&lines=Hello%2C+I'm+Mahmoud+Zain+%F0%9F%91%8B;Back-End+Node.js+Developer)
+# <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=38&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Mahmoud+Zain+%F0%9F%91%8B;Back-End+Developer+%7C+Node.js+%7C+NestJS;Building+Secure+%26+Scalable+Backend+Systems" />
+
+<div align="center">
+
+### 🚀 Back-End Developer | Node.js & NestJS Specialist
+
+Building secure, scalable, and production-ready backend systems.
+
+<p>
+
+  <a href="https://github.com/dev-mahmoud-zain?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Projects-Backend%20Systems-0A66C2?style=for-the-badge" alt="GitHub Repositories" />
+</a>
+
+<a href="https://www.linkedin.com/in/dev-mahmoud-zain/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Zain-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+</a>
 
 
-🌍 **Location:** Egypt  
-💼 **Role:** Back-End Developer (Node.js)  
-🎯 **Specialization:** APIs • Databases • Authentication • Scalable Systems
+</p>
 
----
-
-## 👋 About Me
-I am a **Back-End Developer specializing in Node.js** with hands-on experience building scalable RESTful APIs, designing databases, and implementing secure authentication systems.
-
-I have a **strong background in Front-End development using React.js** and have built multiple projects with it.  
-However, I made a **clear professional decision to specialize in Back-End development**, where my current focus and career path are fully dedicated.
-
----
-
-## 🎓 Education
-**Diploma of Computer Science**  
-IDEAL Center for Computer & Advanced Technology  
-Grade: **Very Good**
-
----
-
-## 🎓 Professional Training
-**Back-End Developer Trainee – Huma Volve**
-- Real-world backend simulation and project-based training  
-- RESTful API design & implementation  
-- Authentication & authorization (JWT, roles, permissions)  
-- Database modeling & validation  
-- Clean architecture & maintainable code practices  
+</div>
 
 ---
 
-## 📚 Courses & Diplomas
+# 👨‍💻 About Me
 
-### 🟢 Backend Development Diploma (Node.js) — **11/2025**
-**Route Training Center**
-- Server-side development using Node.js & Express.js  
-- Database integration with MongoDB  
-- Authentication & security techniques  
-- Building scalable and maintainable RESTful APIs  
+I’m a **Back-End Developer specialized in Node.js & NestJS**, focused on building scalable APIs, secure authentication systems, and maintainable backend architectures.
 
----
+💡 I enjoy designing systems that are:
 
-### 🔵 Frontend Development Diploma — **03/2025**
-**Route Training Center**
-- HTML, CSS, JavaScript (ES6+) fundamentals  
-- Version control using Git  
-- Building responsive user interfaces with React.js  
-- Introductory experience with Next.js (SSR basics)  
+* Secure
+* Scalable
+* Modular
+* Production-ready
 
----
+I work primarily with:
 
-### 🟣 Programming Fundamentals Diploma — **04/2024**
-**Route Training Center**
-- C++ programming fundamentals  
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms  
-- Practical projects and basic design pattern implementation  
+* RESTful APIs
+* Authentication & Authorization
+* Database Design
+* Clean Architecture
+* Real-Time Systems
+* Scalable Backend Services
+
+Although I have solid experience with React.js and frontend technologies, my professional focus is fully dedicated to backend engineering and system architecture.
 
 ---
 
-## 🚀 Technical Skills
+# 🧠 Core Expertise
 
-### 🔧 Backend Development
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
-- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
-- ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
+<div align="center">
 
----
+| Backend    | Databases  | Architecture       | Integrations |
+| ---------- | ---------- | ------------------ | ------------ |
+| Node.js    | PostgreSQL | Clean Architecture | Stripe       |
+| NestJS     | MongoDB    | Modular Design     | Socket.io    |
+| Express.js | MySQL      | RBAC Systems       | Cloudinary   |
+| TypeScript | Mongoose   | Scalable APIs      | JWT Auth     |
 
-### 🎨 Front-End Experience (Background)
-- ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-> My front-end background allows me to design backend APIs that integrate seamlessly with user interfaces and collaborate effectively with front-end teams.
+</div>
 
 ---
 
-### ⚙️ DevOps & Tools
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+# ⚙️ Tech Stack
+
+## 🚀 Backend Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,typescript,javascript" />
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</p>
+
+## 🛠️ Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
 
 ---
 
-### 🧠 Problem Solving
-- ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)
+# 🏆 Featured Projects
+
+## 🔹 Defendants & Case Management System
+
+### `NestJS • PostgreSQL • TypeScript`
+
+A secure backend platform developed for an Egyptian police department to manage:
+
+* Defendants
+* Legal cases
+* Status tracking
+* Structured record retrieval
+
+### Key Features
+
+✔ Role-Based Access Control (RBAC)
+✔ Advanced filtering & search
+✔ Audit-oriented workflows
+✔ Scalable relational database design
+✔ Secure modular architecture
 
 ---
 
-## 🛠️ Project Highlights
+## 🔹 Secure Access
 
-### 🔹 E-Commerce API
-**Tech:** NestJS | Node.js | TypeScript | MongoDB | Mongoose | JWT | Stripe  
-A complete backend system for an online store including authentication, product management, cart & order handling, and payment integration.
+### `NestJS • MongoDB • TypeScript`
 
-**Highlights:**
-- Modular architecture using NestJS  
-- Secure JWT-based authentication  
-- Database relationships & validation  
-- Stripe payment integration  
+Enterprise-grade event access platform with:
 
-🔗 **GitHub:** https://github.com/dev-mahmoud-zain/E-Commerce.git
+* Authentication & Authorization
+* 2FA Security
+* QR-Based Gate Validation
+* Real-Time Access Workflows
 
----
+### Highlights
 
-### 🔹 LinkSphere (Social Media Backend)
-**Tech:** TypeScript | Node.js | Express.js | MongoDB | Socket.io | JWT  
-A social media backend platform with posts, comments, and real-time chat functionality.
-
-**Highlights:**
-- Real-time communication with Socket.io  
-- Scalable and modular architecture  
-- Secure authentication using JWT  
-
-🔗 **GitHub:** https://github.com/dev-mahmoud-zain/LinkSphere
+✔ Secure authentication flows
+✔ Modular scalable services
+✔ QR validation system
+✔ Real-time operational workflows
 
 ---
 
-### 🔹 SecretBox (Anonymous Messaging Platform)
-**Tech:** Node.js | Express.js | MongoDB | JWT  
-A secure backend application for anonymous message sharing inspired by **Sarahah**.
+## 🔹 Humanitarian Relief Platform
 
-**Highlights:**
-- Authentication & authorization  
-- Secure anonymous messaging  
-- Token-based security using JWT  
+### `Node.js • TypeScript • MongoDB`
 
-🔗 **GitHub:** https://github.com/dev-mahmoud-zain/SecretBox
+Backend system built as part of a team project supporting civilians affected by the Gaza war.
 
----
+### Contributions
 
-### 🔹 Doctor Appointment System
-**Tech:** Node.js | Express.js | MongoDB | JWT  
-Backend system for managing doctors, patients, and appointments.
-
-**Highlights:**
-- Role-based access control  
-- Clean architecture & validation  
-- RESTful API best practices  
+✔ API integrations
+✔ Validation workflows
+✔ Backend architecture collaboration
+✔ Scalable service modules
 
 ---
 
-## 🔗 Connect With Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/dev-mahmoud-zain/
+## 🔹 Events Ticketing Platform *(In Progress)*
+
+### `NestJS • PostgreSQL • TypeScript`
+
+Currently building a scalable event management & ticketing platform.
+
+### Planned Features
+
+✔ QR Ticket Generation
+✔ Booking & Payments
+✔ Organizer Analytics
+✔ Promo Codes & Waitlists
+✔ Real-Time Check-In Validation
 
 ---
 
-### ⚔️ Philosophy
-Backend development is not just about making things work —  
-it’s about building systems that are **secure**, **scalable**, and **maintainable**.
+# 📚 Education & Certifications
 
-I am passionate about continuous learning and continuously refining my backend architecture and deployment skills.
+## 🎓 Backend Development Diploma — Route Training Center
 
-Thanks for visiting my GitHub.  
-Feel free to explore my repositories or reach out for collaboration.
+Focused on:
+
+* Node.js & Express.js
+* MongoDB
+* JWT Authentication
+* Scalable API Development
+
+---
+
+## 🎓 Frontend Development Diploma — Route Training Center
+
+Covered:
+
+* React.js
+* JavaScript ES6+
+* Tailwind CSS
+* Next.js Fundamentals
+
+---
+
+## 🎓 Programming Fundamentals Diploma
+
+Studied:
+
+* C++
+* OOP
+* Data Structures & Algorithms
+
+---
+
+# 💼 Professional Experience
+
+## Freelance Back-End Developer
+
+Worked on real-world backend systems and production-ready APIs.
+
+### Responsibilities
+
+✔ Building scalable backend systems
+✔ API architecture & development
+✔ Authentication & authorization systems
+✔ Database optimization
+✔ API testing & debugging
+✔ Clean architecture implementation
+
+---
+
+# 📈 Current Focus
+
+* Advanced NestJS Architecture
+* Scalable System Design
+* PostgreSQL Optimization
+* Docker & Deployment
+* Testing & CI/CD
+* Distributed Backend Systems
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="mailto:dev.mahmoud.zain@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/dev-mahmoud-zain/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Zain-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://wa.me/201551975456">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+
+
+</p>
+
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub profile ⭐
+
+Building systems. Solving problems. Growing every day.
+
+</div>
