@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=38&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Mahmoud+Zain+%F0%9F%91%8B;Back-End+Developer+%7C+Node.js+%7C+NestJS;" />
+# <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=38&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Mahmoud+Zain;Back-End+Developer+%7C+Node.js+%7C+NestJS;" />
 
 <div align="center">
 
